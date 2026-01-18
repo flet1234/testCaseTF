@@ -64,6 +64,12 @@ VALUES
 ⚙️ Environment Variables
 Check the .env.example files in both the /frontend and /backend directories.
 
+In both backend and frontend do 
+npm install
+npm run dev
+
+note:If you don have proper env for db, server will throw error.
+
 🛠️ Tech Stack
 Frontend: Vue 3, Vite, Tailwind CSS (v4), Pinia.
 Backend: Node.js, Express, Knex.js.
